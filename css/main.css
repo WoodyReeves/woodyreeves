@@ -54,7 +54,7 @@ body {
 a,
 a:visited {
 	outline: none;
-	color: white;
+	color: #fdc501;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -64,8 +64,10 @@ a:visited {
 
 a:hover,
 a:focus {
-	color: #fdc501;
+	color: white;
 }
+
+
 
 /* Typography
 --------------------------------------------------------------------- */
