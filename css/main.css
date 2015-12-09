@@ -1296,8 +1296,9 @@ ul#nav li.current a:after {
 }
 
 #hero #more a:hover {
-	background: #fdc501;
-	color: #000000;
+	
+	color: white;
+	
 	
 }
 
@@ -1741,7 +1742,7 @@ ul#nav li.current a:after {
 }
 
 @media only screen and (max-width:768px) {
-	.service-list .bgrid {
+	.service-list .b` {
 		padding: 0 15px 6px;
 	}
 
