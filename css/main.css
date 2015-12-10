@@ -2647,3 +2647,14 @@ footer .social-links li:first-child {
 	right: -5px;
 }
 
+/* PHP form */ 
+
+.white{
+	color: white;
+	padding-right: 10px;
+}
+
+textarea {
+   resize: none!important;
+}
+/* PHP form end */ 
